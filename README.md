@@ -43,3 +43,5 @@
 + Object orientation review will be necessary before launching into MVC.
 + If students want to know the mechanics of Sinatra, explain that it is beyond the scope of this lesson, but they can dive in further on their own. Sometimes you have to take these things for granted in the short term.
 + Have students walk through the code and explain to a partner the flow of MVC applications.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
